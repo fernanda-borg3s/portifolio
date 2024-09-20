@@ -1,4 +1,4 @@
 
-export const IMAGENS_ENDEREÇO = '../../assets/img/';
+export const IMAGENS_ENDEREÇO = './src/assets/img/';
 
 
