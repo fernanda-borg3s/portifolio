@@ -1,0 +1,21 @@
+
+.profile{
+    min-height: 250px;
+    max-height: 100%;
+    border-radius: 32px;
+    background: linear-gradient(rgb(240, 249, 250) 0%, rgb(240, 249, 250) 100%);
+    box-shadow: rgba(255, 255, 255, 0.5) -2px -2px 5px 0px inset, rgba(227, 237, 238, 0.774) -5px -5px 10px 0px inset, rgba(170, 209, 204, 0.5) 5px 5px 9px 0px inset, rgba(170, 209, 204, 0.25) 2px 2px 4px 0px inset;
+
+    
+}
+
+
+
+.profile img{
+    max-width: 90%;
+    min-width: 200px;
+max-height: 90%;
+    border-radius: 32px;
+
+
+}

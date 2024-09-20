@@ -1,0 +1,13 @@
+#tsparticles{
+    height: 300px!important;
+    max-width: 100%;
+    min-height: 250px;
+   
+
+}
+#tsparticles canvas{
+    height: 100%!important;
+    border-radius: 32px;
+    
+
+}
