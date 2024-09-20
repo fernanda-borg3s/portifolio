@@ -3,7 +3,7 @@ import { useEffect, useState } from 'react'
 import Container from 'react-bootstrap/Container';
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
-import { IMAGENS_ENDEREÇO } from '../../../service.js'
+import { IMAGENS_ENDEREÇO } from '../../service.js'
 import './Navbar.css';
 
 function NavbarHome(){

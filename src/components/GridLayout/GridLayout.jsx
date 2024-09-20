@@ -1,6 +1,6 @@
 import './GridLayout.css'
 import Col from 'react-bootstrap/Col';
-import { IMAGENS_ENDEREÇO } from '../../../service.js';
+import { IMAGENS_ENDEREÇO } from '../../service.js';
 
 function GridLayout({ titulo, texto, classBtn, classTxt, children, imgIcone, mostrarImg, ajusteH1 }){
     return(
