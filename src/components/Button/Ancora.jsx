@@ -4,7 +4,7 @@ const Ancora = ({ children, size, onLink}) => {
  
 
   return (
-    <a href={onLink} target="_blank" className={`${size}`}>{children}</a>
+    <a href={onLink} className={`${size}`}>{children}</a>
   );
 };
 

@@ -3,7 +3,7 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import { useEffect, useState} from 'react';
 
-import { IMAGENS_ENDEREÇO } from '../../service.js';
+import { IMAGENS_ENDEREÇO } from '../../../service.js';
 import './Card.css'
 import Projetos from '../../../data.js'
 import Ancora from '../Button/Ancora.jsx';
