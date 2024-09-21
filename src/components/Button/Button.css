@@ -1,8 +1,6 @@
 .arrow-right, .btn-contato, .btn-projeto{
     box-shadow: rgba(255, 255, 255, 0.863) -10px -10px 20px 0px, rgba(170, 209, 204, 0.5) 10px 10px 20px 0px, rgba(170, 209, 204, 0.25) 5px 5px 10px 0px, rgba(255, 255, 255, 0.5) -5px -5px 10px 0px;
-    /* background: linear-gradient(rgb(240, 249, 248) 0%, rgba(240, 249, 248, 0.644) 100%); */
     background: linear-gradient(rgb(245, 245, 245) 0%, rgba(252, 252, 252, 0.918) 100%);
-    /* transform: translate(0px, 0px); */
     border: none;
     font-weight: bold;
 
@@ -14,7 +12,7 @@
     padding: 10px;
     border-radius:30px;
     margin-right: 30px;
-    /* background: linear-gradient(rgb(240, 249, 250) 0%, rgb(240, 249, 250) 100%); */
+ 
   
    }
 
@@ -31,9 +29,3 @@
 .arrow-right:hover, .btn-contato:hover, .btn-projeto:hover{
     box-shadow: rgba(255, 255, 255) -1px -1px 2px 0px, rgb(170, 209, 204, 0.5) 1px 1px 2px 0px;
 }
-/* .btn-projeto{
-    flex-direction: row;
-    align-items: end;
-    justify-content: end;
-   
-} */
