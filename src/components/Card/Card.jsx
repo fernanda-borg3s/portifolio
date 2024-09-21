@@ -2,8 +2,6 @@ import Card from 'react-bootstrap/Card';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import { useEffect, useState} from 'react';
-
-import { IMAGENS_ENDEREÇO } from '../../../service.js';
 import './Card.css'
 import Projetos from '../../../data.js'
 import Ancora from '../Button/Ancora.jsx';
@@ -30,7 +28,7 @@ function CardLayout(){
         {projetos.sort((a, b) => b.id - a.id).map((project, index) => (
         <Col key={index}>
             <Card className='card-coluna'>
-                {/* DESCOBRIR COM CARREGAR ESSAS IMAGENS DINAMICAMENTE */}
+             
                 <Card.Img variant="top" className='img-card' src={project.img}/>
                 <Card.Body>
                     <Card.Title className='d-flex align-items-center justify-content-between'>
