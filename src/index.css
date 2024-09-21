@@ -46,9 +46,7 @@ footer{
     flex-wrap: wrap;
     flex-direction: column; 
   }
-  .colunas h1, .texto-grid{
-    padding: 0;
-  }
+ 
   .col{
     margin-top: 5px;
   }
@@ -83,6 +81,7 @@ footer{
     margin-top: 15px;
   }
  
+ 
 }
 
 @media (max-width: 500px) {
@@ -101,4 +100,8 @@ footer{
   h2{
     font-size: 14px!important;
   }
+  .card-body{
+    padding: 10px;
+  }
+
 }
