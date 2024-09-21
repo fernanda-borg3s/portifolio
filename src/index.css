@@ -94,6 +94,7 @@ footer{
     padding: 10px!important;
 
   }
+ 
   .btn-projeto {
     font-size: 14px;
   }
@@ -104,4 +105,11 @@ footer{
     padding: 10px;
   }
 
+}
+@media (max-width: 400px) {
+  .div-inside-skills p{
+    font-size: 15px!important;
+
+  }
+ 
 }
