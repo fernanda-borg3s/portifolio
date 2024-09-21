@@ -3,7 +3,8 @@ import { useEffect, useState } from 'react'
 import Container from 'react-bootstrap/Container';
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
-import { IMAGENS_ENDEREÇO } from '../../../service.js'
+import Git from '../../assets/img/Github.png'
+import CodePen from '../../assets/img/Codepen.png'
 import './Navbar.css';
 
 function NavbarHome(){
@@ -59,7 +60,7 @@ function NavbarHome(){
                 <Navbar.Collapse className="justify-content-end">
                     <div className="rede-social d-flex ">
                         <a href="https://github.com/fernanda-borg3s" target="_blank">
-                            <img src={`${IMAGENS_ENDEREÇO}Github.png`}/>
+                            <img src={Git}/>
                           
                         </a>
                         <a href="https://www.instagram.com/fernandab_code/" target="_blank">
@@ -72,7 +73,7 @@ function NavbarHome(){
                             <i className="bi bi-linkedin"></i>
                         </a>
                         <a href="https://codepen.io/fernanda-borg3s" target="_blank">
-                            <img src={`${IMAGENS_ENDEREÇO}Codepen.png`} />
+                            <img src={CodePen} />
                         
                         </a>
                     </div>

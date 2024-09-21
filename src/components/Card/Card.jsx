@@ -30,7 +30,8 @@ function CardLayout(){
         {projetos.sort((a, b) => b.id - a.id).map((project, index) => (
         <Col key={index}>
             <Card className='card-coluna'>
-                <Card.Img variant="top" className='img-card' src={`${IMAGENS_ENDEREÇO}${project.img}`}/>
+                {/* DESCOBRIR COM CARREGAR ESSAS IMAGENS DINAMICAMENTE */}
+                <Card.Img variant="top" className='img-card' src={project.img}/>
                 <Card.Body>
                     <Card.Title className='d-flex align-items-center justify-content-between'>
                         <div>
@@ -52,15 +53,7 @@ function CardLayout(){
                                 <Ancora key={index} size='btn-projeto' onLink={botao.link}>{botao.label}</Ancora>
                                
                                 ))}
-                                 </div>
-                            {/* {project.botoes.length === 1 ? 
-                            <Button size="btn-projeto">{project.botoes.botao1}</Button>: 
-                            <div className='d-flex align-items-center justify-content-around'>
-                                <Button size="btn-projeto">{project.botoes.botao1}</Button>
-                                <Button size="btn-projeto">{project.botoes.botao2}</Button>
-                            </div>
-                            } */}
-                            
+                                 </div>                        
                         </div>
                     
                     )}
