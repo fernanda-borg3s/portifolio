@@ -93,9 +93,6 @@ const projetos = [
             "botao1": { label: "Código",
                         link:"https://github.com/fernanda-borg3s/front-end_inova_IF"
              },
-           "botao2": { label: "Site",
-                        link:"https://inovaif-theta.vercel.app/"
-            }
         }
         
     },
