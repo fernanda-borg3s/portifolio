@@ -47,4 +47,4 @@ npm run dev
 
 Você pode acessar o portfólio online:
 ```bash
-🔗https://fernandaborges.netlify.app/
+https://fernandaborges.netlify.app/
