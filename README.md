@@ -39,7 +39,7 @@ Clone este repositório e rode localmente:
 (⚠️ Certifique-se de ter o Node.js instalado, já que o projeto utiliza Vite como bundler)
 ```bash
 git clone https://github.com/fernanda-borg3s/portifolio.git
-cd portfolio
+cd portifolio
 npm install
 npm run dev
 ```
