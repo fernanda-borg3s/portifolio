@@ -33,16 +33,6 @@ Este portfólio contém:
 
 <img width="1448" height="823" alt="image" src="https://github.com/user-attachments/assets/62ba5dee-a70f-4591-b7de-348a74b89da6" />
 
-##  Como executar localmente
-
-Clone este repositório e rode localmente:
-(⚠️ Certifique-se de ter o Node.js instalado, já que o projeto utiliza Vite como bundler)
-```bash
-git clone https://github.com/fernanda-borg3s/portifolio.git
-cd portifolio
-npm install
-npm run dev
-```
 ## 🌐 Acesse online
 
 Você pode acessar o portfólio online:
