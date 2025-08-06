@@ -63,11 +63,6 @@ function NavbarHome(){
                             <img src={Git}/>
                           
                         </a>
-                        <a href="https://www.instagram.com/fernandab_code/" target="_blank">
-                            
-                            <i className="bi bi-instagram"></i>
-
-                        </a>
                         <a href="https://www.linkedin.com/in/fernanda-borges133/" target="_blank">
                         
                             <i className="bi bi-linkedin"></i>
