@@ -16,7 +16,7 @@ function Sobre(){
                         <div className='row p-2 d-flex flex-colum'>
                         <h1>Sobre mim</h1>
                         <p style={{ textAlign:'justify', paddingRight:"10px"}}>
-                        Sou uma desenvolvedora Web, com uma base sólida em desenvolvimento de interfaces interativas e responsivas, adquirida durante meus estudos acadêmicos e em experiências práticas. Recentemente, me graduei como Tecnólogo em Sistemas para Internet, além de possuir formação técnica em Desenvolvimento de Sistemas para Web. Tenho conhecimento em HTML, CSS, JavaScript, React, Node.js, PHP e etc, sempre buscando aplicar essas habilidades em soluções criativas e eficazes para o desenvolvimento web. Tenho facilidade em aprender e me adaptar rapidamente, e estou sempre em busca de novos desafios para aprimorar meus conhecimentos. Possuo curso avançado de inglês e tenho um entendimento e oralidade razoável da língua. Sou uma pessoa proativa, organizada e criativa, sempre trazendo uma abordagem inovadora para os projetos em que me envolvo. Estou pronta para contribuir com a equipe, buscando crescer profissionalmente e agregar valor aos projetos com meu comprometimento e dedicação.
+                        Sou uma desenvolvedora Full-Stack, com uma base sólida em desenvolvimento de interfaces interativas e responsivas, adquirida durante meus estudos acadêmicos e em experiências práticas. Recentemente, me graduei como Tecnólogo em Sistemas para Internet, além de possuir formação técnica em Desenvolvimento de Sistemas para Web. Tenho conhecimento em HTML, CSS, JavaScript, React, Node.js, PHP e etc, sempre buscando aplicar essas habilidades em soluções criativas e eficazes para o desenvolvimento web. Tenho facilidade em aprender e me adaptar rapidamente, e estou sempre em busca de novos desafios para aprimorar meus conhecimentos. Possuo curso avançado de inglês e tenho um entendimento e oralidade razoável da língua. Sou uma pessoa proativa, organizada e criativa, sempre trazendo uma abordagem inovadora para os projetos em que me envolvo. Estou pronta para contribuir com a equipe, buscando crescer profissionalmente e agregar valor aos projetos com meu comprometimento e dedicação.
                         </p>
                         </div>                       
                     </GridLayout>
@@ -48,17 +48,20 @@ function Sobre(){
                 <Col>
                     <GridLayout   >
                         <div className='row p-2 d-flex flex-colum'>
-                        <div className="" style={{fontSize:'18px'}}>
+                        <div className="" style={{fontSize:'17px'}}>
                         <h1>Certificados</h1>
                             <ul>
                                 <li>EMAG DESENVOLVEDOR - Enap/2022</li>
                                 <li>Introdução à Programação com a Linguagem Swift - IFB/2022</li>
                                 <li>Inovando Com CSS - Fundação Bradesco/2022</li>
-                                <li>Inglês Avançando - PWCursos/2018</li>
+                                <li>Programador de Internet - IFB/2021</li>
+                                <li>Programador de Sistemas de Informação - IFB/2021</li>
+                                <li>Operador de Computador - IFB/2020</li>
+                                <li>Inglês Avançado - PWCursos/2018</li>
                                 <li>Curso de Informática - PWCursos/2016</li>
                             </ul>
                         </div>
-                        <div className="mt-5" style={{fontSize:'18px'}}>
+                        <div className="mt-5" style={{fontSize:'17px'}}>
                             <h1>Competências</h1>
                             <ul>
                                 <li> Oralidade e escrita em inglês, com capacidade de leitura técnica razoável </li>
@@ -66,7 +69,7 @@ function Sobre(){
                                 <li>Conhecimento em metodologias ágeis de desenvolvimento de software(Scrum e Kaban)</li>
                                 <li>Noções básicas em Java, Swift, TypeScript e NextJS</li>
                                 <li>Desenvolvimento Front-end</li>
-                                <li> Capacidade de se adaptar às diversas situações</li>
+                                <li>Capacidade de se adaptar às diversas situações</li>
 
                             </ul>
                         </div>
