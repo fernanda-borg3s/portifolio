@@ -18,7 +18,7 @@ const projetos = [
                         link:"https://github.com/fernanda-borg3s/play-quiz-game"
              },
             "botao2": { label: "Jogar",
-                        link:"https://play-quiz-fbb.netlify.app/"
+                        link:"https://fernanda-borg3s.github.io/play-quiz-game/"
              }
         }
 
@@ -62,7 +62,7 @@ const projetos = [
                         link:"https://github.com/fernanda-borg3s/to-do-list"
              },
             "botao2": { label: "Site",
-                        link:"https://to-list-tarefas.netlify.app/"
+                        link:"https://fernanda-borg3s.github.io/to-do-list/"
              }
         }
         
@@ -78,7 +78,7 @@ const projetos = [
                         link:"https://github.com/fernanda-borg3s/Qual-numero-game"
              },
             "botao2": { label: "Jogar",
-                        link:"https://adivinhe-o-numero-game.netlify.app/"
+                        link:"https://fernanda-borg3s.github.io/Qual-numero-game/"
              }
         }
         
