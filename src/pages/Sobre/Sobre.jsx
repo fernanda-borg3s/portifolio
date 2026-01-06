@@ -2,7 +2,7 @@ import Container from "react-bootstrap/esm/Container";
 import Row from 'react-bootstrap/Row';
 import GridLayout from "../../components/GridLayout/GridLayout";
 import Col from 'react-bootstrap/Col';
-import Perfil from '../../assets/img/Perfil.jpg';
+import Perfil from '../../assets/img/Profile.png';
 import './Sobre.css'
 import Footer from "../../components/Footer/Footer";
 
