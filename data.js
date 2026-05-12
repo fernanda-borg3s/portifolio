@@ -6,6 +6,7 @@ import Breve from './src/assets/img/Breve.png'
 import AdviNumero from './src/assets/img/Adivinhenumero.png'
 import Instituto from './src/assets/img/Instituto.png'
 import Portifolio3 from './src/assets/img/Portifolio3.png'
+import AdminBook from './src/assets/img/Adminbook.png'
 const projetos = [
     {
         "id": 1,
@@ -114,6 +115,23 @@ const projetos = [
     },
     {
         "id": 8,
+        "titulo": "AdminBooks",
+        "tecnologias":"HTML, CSS3, JAVASRIPT, REACT, BOOSTRAP, VITE",
+        "img": `${AdminBook}`,
+        "descricao": "O AdminBooks é um projeto pessoal criado para solucionar um problema do meu dia a dia e transformar minha paixão por livros em uma experiência bem organizada. Aqui, posso catalogar minhas leituras, acompanhar meu progresso e definir meus próprios desafios literários.",
+        "botoes":{
+            "botao1": { label: "Código",
+                         link:"https://github.com/fernanda-borg3s/AdminBook_Online"
+             },
+           
+             "botao2": { label: "Site",
+                        link:"https://adminbooks.netlify.app/"
+             }
+        }
+        
+    },
+    {
+        "id": 9,
         "titulo": "Em breve",
         "tecnologias":"Em breve mais um projeto aqui. Aguarde...",
         "img": `${Breve}`,
